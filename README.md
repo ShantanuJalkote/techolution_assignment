@@ -15,7 +15,7 @@ To run this project locally, please follow these steps:
    
    ```
    
-    cd techolution_assignment
+   cd techolution_assignment
    
    ```
 Ensure you have Python installed. You can download it from python.org
