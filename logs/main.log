@@ -1,0 +1,58 @@
+2024-06-09 14:56:44,391 - INFO - Starting Library Management System
+2024-06-09 14:56:46,444 - INFO - User choice: 1
+2024-06-09 14:56:58,052 - INFO - User choice: 2
+2024-06-09 14:57:11,625 - INFO - User choice: 5
+2024-06-09 14:57:17,155 - INFO - Checking out book with ISBN 1 for user with ID 2
+2024-06-09 14:57:26,008 - INFO - User choice: 4
+2024-06-09 14:57:32,025 - INFO - User choice: 3
+2024-06-09 14:57:42,210 - INFO - User choice: 4
+2024-06-09 14:57:50,997 - INFO - User choice: 5
+2024-06-09 14:57:58,920 - INFO - Checking out book with ISBN 1 for user with ID 2
+2024-06-09 14:58:06,488 - INFO - User choice: 7
+2024-06-09 14:58:09,204 - INFO - Checking availability of book with ISBN 1
+2024-06-09 14:58:09,204 - INFO - Book 1 is not available
+2024-06-09 14:58:30,592 - INFO - User choice: 6
+2024-06-09 14:58:32,466 - INFO - Checking in book with ISBN 1
+2024-06-09 14:58:38,280 - INFO - User choice: 4
+2024-06-09 14:58:41,310 - INFO - User choice: 2
+2024-06-09 14:58:44,286 - INFO - User choice: 7
+2024-06-09 14:58:47,790 - INFO - Checking availability of book with ISBN 1
+2024-06-09 14:58:47,790 - INFO - Book 1 is available
+2024-06-09 14:59:02,266 - INFO - User choice: 8
+2024-06-09 14:59:02,266 - INFO - Exiting Library Management System
+2024-06-09 15:08:34,527 - INFO - Starting Library Management System
+2024-06-09 15:08:38,465 - INFO - User choice: 2
+2024-06-09 15:08:38,465 - INFO - Listing books
+2024-06-09 15:23:40,571 - INFO - Starting Library Management System
+2024-06-09 15:23:42,044 - INFO - User choice: 1
+2024-06-09 15:24:18,936 - INFO - Book added: UserBook1, User_a, 1
+2024-06-09 15:24:23,833 - INFO - User choice: 1
+2024-06-09 15:24:41,081 - INFO - Book added: UserBook2, User_b, 2
+2024-06-09 15:24:43,775 - INFO - User choice: 1
+2024-06-09 15:24:55,097 - INFO - Book added: UserBook3, User_c, 3
+2024-06-09 15:25:02,655 - INFO - User choice: UserBook4
+2024-06-09 15:25:02,655 - WARNING - Invalid choice entered
+2024-06-09 15:25:07,735 - INFO - User choice: 1
+2024-06-09 15:25:26,281 - INFO - Book added: UserBook4, User_d, 4
+2024-06-09 15:25:30,237 - INFO - User choice: 4
+2024-06-09 15:25:30,237 - INFO - Listing users
+2024-06-09 15:25:40,102 - INFO - User choice: 2
+2024-06-09 15:25:40,107 - INFO - Listing books
+2024-06-09 15:28:21,917 - INFO - Starting Library Management System
+2024-06-09 15:28:23,909 - INFO - User choice: 2
+2024-06-09 15:28:23,909 - INFO - Listing books
+2024-06-09 15:28:41,011 - INFO - Starting Library Management System
+2024-06-09 15:28:47,418 - INFO - User choice: 2
+2024-06-09 15:28:47,419 - INFO - Listing books
+2024-06-09 15:30:24,623 - INFO - Starting Library Management System
+2024-06-09 15:30:30,075 - INFO - User choice: 3
+2024-06-09 15:30:35,902 - INFO - User added: Sam, 2
+2024-06-09 15:30:39,345 - INFO - User choice: 4
+2024-06-09 15:30:39,345 - INFO - Listing users
+2024-06-09 15:30:48,051 - INFO - User choice: 3
+2024-06-09 15:30:54,649 - INFO - User added: Jake, 3
+2024-06-09 15:32:32,353 - INFO - Starting Library Management System
+2024-06-09 15:32:34,484 - INFO - User choice: 3
+2024-06-09 15:32:48,735 - INFO - User added: Pan, 3
+2024-06-09 15:32:53,879 - INFO - User choice: 4
+2024-06-09 15:32:53,879 - INFO - Listing users

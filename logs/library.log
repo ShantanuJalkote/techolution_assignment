@@ -1,0 +1,73 @@
+2024-06-09 15:09:47,758 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:09:47,758 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:09:47,758 - WARNING - Book with ISBN 123456 already exists.
+2024-06-09 15:09:47,758 - INFO - Added user: User(name=Test User, user_id=1)
+2024-06-09 15:09:47,761 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:09:47,761 - INFO - Added user: User(name=Test User, user_id=1)
+2024-06-09 15:09:47,761 - INFO - Searching for user with ID 1
+2024-06-09 15:09:47,761 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:09:47,762 - INFO - Book 123456 checked out to user 1.
+2024-06-09 15:09:47,767 - INFO - Book 123456 availability set to True
+2024-06-09 15:09:47,768 - INFO - Book 123456 checked in.
+2024-06-09 15:09:47,768 - WARNING - Book not found in checkouts.
+2024-06-09 15:09:47,768 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:09:47,769 - INFO - Added user: User(name=Test User1, user_id=1)
+2024-06-09 15:09:47,769 - INFO - Added user: User(name=Test User2, user_id=2)
+2024-06-09 15:09:47,769 - INFO - Searching for user with ID 1
+2024-06-09 15:09:47,769 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:09:47,770 - INFO - Book 123456 checked out to user 1.
+2024-06-09 15:09:47,770 - INFO - Searching for user with ID 2
+2024-06-09 15:09:47,770 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:09:47,770 - WARNING - Book 123456 is not available.
+2024-06-09 15:09:47,770 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:09:47,770 - INFO - Added user: User(name=Test User, user_id=1)
+2024-06-09 15:09:47,771 - INFO - Searching for user with ID 1
+2024-06-09 15:09:47,771 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:09:47,771 - INFO - Book 123456 checked out to user 1.
+2024-06-09 15:09:47,772 - INFO - Added user: User(name=Test User, user_id=1)
+2024-06-09 15:09:47,772 - INFO - Searching for user with ID 1
+2024-06-09 15:09:47,772 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:09:47,772 - WARNING - User or book not found.
+2024-06-09 15:24:18,936 - INFO - Added book: Book(title=UserBook1, author=User_a, isbn=1, available=True)
+2024-06-09 15:24:41,081 - INFO - Added book: Book(title=UserBook2, author=User_b, isbn=2, available=True)
+2024-06-09 15:24:55,097 - INFO - Added book: Book(title=UserBook3, author=User_c, isbn=3, available=True)
+2024-06-09 15:25:26,281 - INFO - Added book: Book(title=UserBook4, author=User_d, isbn=4, available=True)
+2024-06-09 15:25:30,237 - INFO - Listing users
+2024-06-09 15:25:40,102 - INFO - Listing books
+2024-06-09 15:28:23,909 - INFO - Listing books
+2024-06-09 15:28:37,470 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:28:37,470 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:28:37,470 - WARNING - Book with ISBN 123456 already exists.
+2024-06-09 15:28:37,470 - INFO - Added user: User(name=Test User, user_id=1)
+2024-06-09 15:28:37,470 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:28:37,470 - INFO - Added user: User(name=Test User, user_id=1)
+2024-06-09 15:28:37,470 - INFO - Searching for user with ID 1
+2024-06-09 15:28:37,470 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:28:37,470 - INFO - Book 123456 checked out to user 1.
+2024-06-09 15:28:37,470 - INFO - Book 123456 availability set to True
+2024-06-09 15:28:37,470 - INFO - Book 123456 checked in.
+2024-06-09 15:28:37,470 - WARNING - Book not found in checkouts.
+2024-06-09 15:28:37,470 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:28:37,470 - INFO - Added user: User(name=Test User1, user_id=1)
+2024-06-09 15:28:37,470 - INFO - Added user: User(name=Test User2, user_id=2)
+2024-06-09 15:28:37,470 - INFO - Searching for user with ID 1
+2024-06-09 15:28:37,470 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:28:37,480 - INFO - Book 123456 checked out to user 1.
+2024-06-09 15:28:37,480 - INFO - Searching for user with ID 2
+2024-06-09 15:28:37,480 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:28:37,480 - WARNING - Book 123456 is not available.
+2024-06-09 15:28:37,480 - INFO - Added book: Book(title=Test Book, author=Test Author, isbn=123456, available=True)
+2024-06-09 15:28:37,480 - INFO - Added user: User(name=Test User, user_id=1)
+2024-06-09 15:28:37,480 - INFO - Searching for user with ID 1
+2024-06-09 15:28:37,480 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:28:37,480 - INFO - Book 123456 checked out to user 1.
+2024-06-09 15:28:37,480 - INFO - Added user: User(name=Test User, user_id=1)
+2024-06-09 15:28:37,482 - INFO - Searching for user with ID 1
+2024-06-09 15:28:37,482 - INFO - Searching for book with ISBN 123456
+2024-06-09 15:28:37,482 - WARNING - User or book not found.
+2024-06-09 15:28:47,418 - INFO - Listing books
+2024-06-09 15:30:35,901 - INFO - Added user: User(name=Sam, user_id=2)
+2024-06-09 15:30:39,345 - INFO - Listing users
+2024-06-09 15:30:54,649 - INFO - Added user: User(name=Jake, user_id=3)
+2024-06-09 15:32:48,720 - INFO - Added user: User(name=Pan, user_id=4)
+2024-06-09 15:32:53,879 - INFO - Listing users
